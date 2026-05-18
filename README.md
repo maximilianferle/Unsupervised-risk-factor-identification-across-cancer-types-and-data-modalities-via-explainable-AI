@@ -50,4 +50,4 @@ print(f"Loss: {loss.item()}")
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
