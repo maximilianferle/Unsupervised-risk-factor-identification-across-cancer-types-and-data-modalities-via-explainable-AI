@@ -1,0 +1,8 @@
+.idea
+*NSCLC-Radiomics*
+*lightning_logs*
+*__pycache__*
+*.png
+*.tsv
+*.csv
+*.pkl
