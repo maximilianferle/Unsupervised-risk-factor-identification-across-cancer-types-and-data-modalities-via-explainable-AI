@@ -4,16 +4,10 @@ torch==2.5.1
 lightning==2.5.0.post0
 lifelines==0.30.0
 torchviz==0.0.3
-lifelines==0.30.0
 torchinfo==1.8.0
 scikit-learn==1.6.1
 numba==0.61.0
-umap-learn==0.5.7
-shap==0.47.0
 pydicom==3.0.1
 matplotlib==3.10.1
 SimpleITK==2.4.1
 PyQt5==5.15.11
-seaborn==0.13.2
-scikit-survival==0.24.1
-requests==2.32.3
