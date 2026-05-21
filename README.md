@@ -36,7 +36,7 @@ python main.py
 
 ## Core Innovation: Partial Multivariate Log-Rank Loss
 
-The main innovation of this work is implemented in `loss/partial_multivariate_logrank.py`. This loss module enables
+The main innovation of this work is implemented in [loss/partial_multivariate_logrank.py](loss/partial_multivariate_logrank.py). This loss module enables
 model architecture- and data modality-independent clustering of risk groups in a survival-guided manner while handling
 censored data.
 
